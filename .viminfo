@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1776077166,,"wq"
+|2,0,1776077328,,"wq"
 :q!
 |2,0,1775916292,,"q!"
 :q
@@ -29,20 +29,26 @@
 # Registers:
 
 # File marks:
-'0  1  18  ~/index.html
-|4,48,1,18,1776077166,"~/index.html"
+'0  1  11  ~/index.html
+|4,48,1,11,1776077328,"~/index.html"
 '1  1  18  ~/index.html
-|4,49,1,18,1776077123,"~/index.html"
-'2  2  41  /tmp/basic.sh
-|4,50,2,41,1775919441,"/tmp/basic.sh"
-'3  17  19  ~/jenkins.sh
-|4,51,17,19,1775916484,"~/jenkins.sh"
-'4  63  0  ~/jenkins.sh
-|4,52,63,0,1775916292,"~/jenkins.sh"
-'5  47  0  ~/jenkins.sh
-|4,53,47,0,1775916292,"~/jenkins.sh"
+|4,49,1,18,1776077166,"~/index.html"
+'2  1  18  ~/index.html
+|4,50,1,18,1776077123,"~/index.html"
+'3  1  18  ~/index.html
+|4,51,1,18,1776077123,"~/index.html"
+'4  2  41  /tmp/basic.sh
+|4,52,2,41,1775919441,"/tmp/basic.sh"
+'5  17  19  ~/jenkins.sh
+|4,53,17,19,1775916484,"~/jenkins.sh"
+'6  63  0  ~/jenkins.sh
+|4,54,63,0,1775916292,"~/jenkins.sh"
+'7  47  0  ~/jenkins.sh
+|4,55,47,0,1775916292,"~/jenkins.sh"
 
 # Jumplist (newest first):
+-'  1  11  ~/index.html
+|4,39,1,11,1776077328,"~/index.html"
 -'  1  18  ~/index.html
 |4,39,1,18,1776077166,"~/index.html"
 -'  1  18  ~/index.html
@@ -55,6 +61,22 @@
 |4,39,2,41,1775919441,"/tmp/basic.sh"
 -'  2  41  /tmp/basic.sh
 |4,39,2,41,1775919441,"/tmp/basic.sh"
+-'  2  41  /tmp/basic.sh
+|4,39,2,41,1775919441,"/tmp/basic.sh"
+-'  2  41  /tmp/basic.sh
+|4,39,2,41,1775919441,"/tmp/basic.sh"
+-'  2  41  /tmp/basic.sh
+|4,39,2,41,1775919441,"/tmp/basic.sh"
+-'  2  41  /tmp/basic.sh
+|4,39,2,41,1775919441,"/tmp/basic.sh"
+-'  1  0  /tmp/basic.sh
+|4,39,1,0,1775919409,"/tmp/basic.sh"
+-'  1  0  /tmp/basic.sh
+|4,39,1,0,1775919409,"/tmp/basic.sh"
+-'  1  0  /tmp/basic.sh
+|4,39,1,0,1775919409,"/tmp/basic.sh"
+-'  1  0  /tmp/basic.sh
+|4,39,1,0,1775919409,"/tmp/basic.sh"
 -'  1  0  /tmp/basic.sh
 |4,39,1,0,1775919409,"/tmp/basic.sh"
 -'  1  0  /tmp/basic.sh
@@ -79,6 +101,38 @@
 |4,39,17,19,1775916484,"~/jenkins.sh"
 -'  17  19  ~/jenkins.sh
 |4,39,17,19,1775916484,"~/jenkins.sh"
+-'  17  19  ~/jenkins.sh
+|4,39,17,19,1775916484,"~/jenkins.sh"
+-'  17  19  ~/jenkins.sh
+|4,39,17,19,1775916484,"~/jenkins.sh"
+-'  17  19  ~/jenkins.sh
+|4,39,17,19,1775916484,"~/jenkins.sh"
+-'  17  19  ~/jenkins.sh
+|4,39,17,19,1775916484,"~/jenkins.sh"
+-'  17  19  ~/jenkins.sh
+|4,39,17,19,1775916484,"~/jenkins.sh"
+-'  17  19  ~/jenkins.sh
+|4,39,17,19,1775916484,"~/jenkins.sh"
+-'  17  19  ~/jenkins.sh
+|4,39,17,19,1775916484,"~/jenkins.sh"
+-'  17  19  ~/jenkins.sh
+|4,39,17,19,1775916484,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1775916295,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1775916295,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1775916295,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1775916295,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1775916295,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1775916295,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1775916295,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1775916295,"~/jenkins.sh"
 -'  1  0  ~/jenkins.sh
 |4,39,1,0,1775916295,"~/jenkins.sh"
 -'  1  0  ~/jenkins.sh
@@ -127,6 +181,54 @@
 |4,39,63,0,1775916292,"~/jenkins.sh"
 -'  47  0  ~/jenkins.sh
 |4,39,47,0,1775916292,"~/jenkins.sh"
+-'  63  0  ~/jenkins.sh
+|4,39,63,0,1775916292,"~/jenkins.sh"
+-'  47  0  ~/jenkins.sh
+|4,39,47,0,1775916292,"~/jenkins.sh"
+-'  63  0  ~/jenkins.sh
+|4,39,63,0,1775916292,"~/jenkins.sh"
+-'  47  0  ~/jenkins.sh
+|4,39,47,0,1775916292,"~/jenkins.sh"
+-'  63  0  ~/jenkins.sh
+|4,39,63,0,1775916292,"~/jenkins.sh"
+-'  47  0  ~/jenkins.sh
+|4,39,47,0,1775916292,"~/jenkins.sh"
+-'  63  0  ~/jenkins.sh
+|4,39,63,0,1775916292,"~/jenkins.sh"
+-'  47  0  ~/jenkins.sh
+|4,39,47,0,1775916292,"~/jenkins.sh"
+-'  63  0  ~/jenkins.sh
+|4,39,63,0,1775916292,"~/jenkins.sh"
+-'  47  0  ~/jenkins.sh
+|4,39,47,0,1775916292,"~/jenkins.sh"
+-'  63  0  ~/jenkins.sh
+|4,39,63,0,1775916292,"~/jenkins.sh"
+-'  47  0  ~/jenkins.sh
+|4,39,47,0,1775916292,"~/jenkins.sh"
+-'  63  0  ~/jenkins.sh
+|4,39,63,0,1775916292,"~/jenkins.sh"
+-'  47  0  ~/jenkins.sh
+|4,39,47,0,1775916292,"~/jenkins.sh"
+-'  63  0  ~/jenkins.sh
+|4,39,63,0,1775916292,"~/jenkins.sh"
+-'  47  0  ~/jenkins.sh
+|4,39,47,0,1775916292,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1775916206,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1775916206,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1775916206,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1775916206,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1775916206,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1775916206,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1775916206,"~/jenkins.sh"
+-'  1  0  ~/jenkins.sh
+|4,39,1,0,1775916206,"~/jenkins.sh"
 -'  1  0  ~/jenkins.sh
 |4,39,1,0,1775916206,"~/jenkins.sh"
 -'  1  0  ~/jenkins.sh
@@ -147,11 +249,11 @@
 # History of marks within files (newest to oldest):
 
 > ~/index.html
-	*	1776077164	0
-	"	1	18
-	^	1	19
-	.	1	18
-	+	1	18
+	*	1776077325	0
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	11
 
 > /tmp/basic.sh
 	*	1775919437	0
