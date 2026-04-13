@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq
+|2,0,1776100617,,"wq"
 :q
 |2,0,1776100384,,"q"
-:wq
-|2,0,1776100244,,"wq"
 :q!
 |2,0,1775916292,,"q!"
 
@@ -29,34 +29,80 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/story1
-|4,48,1,0,1776100384,"~/story1"
-'1  1  29  ~/story2
-|4,49,1,29,1776100244,"~/story2"
-'2  1  10  ~/index.html
-|4,50,1,10,1776077356,"~/index.html"
-'3  1  11  ~/index.html
-|4,51,1,11,1776077328,"~/index.html"
-'4  1  18  ~/index.html
-|4,52,1,18,1776077166,"~/index.html"
-'5  1  18  ~/index.html
-|4,53,1,18,1776077166,"~/index.html"
+'0  1  27  ~/story2.txt
+|4,48,1,27,1776100617,"~/story2.txt"
+'1  1  18  ~/story2.txt
+|4,49,1,18,1776100527,"~/story2.txt"
+'2  1  0  ~/story1
+|4,50,1,0,1776100384,"~/story1"
+'3  1  29  ~/story2
+|4,51,1,29,1776100244,"~/story2"
+'4  1  10  ~/index.html
+|4,52,1,10,1776077356,"~/index.html"
+'5  1  11  ~/index.html
+|4,53,1,11,1776077328,"~/index.html"
 '6  1  18  ~/index.html
-|4,54,1,18,1776077123,"~/index.html"
+|4,54,1,18,1776077166,"~/index.html"
 '7  1  18  ~/index.html
-|4,55,1,18,1776077123,"~/index.html"
+|4,55,1,18,1776077166,"~/index.html"
 '8  1  18  ~/index.html
 |4,56,1,18,1776077123,"~/index.html"
 '9  1  18  ~/index.html
 |4,57,1,18,1776077123,"~/index.html"
 
 # Jumplist (newest first):
+-'  1  27  ~/story2.txt
+|4,39,1,27,1776100617,"~/story2.txt"
+-'  1  18  ~/story2.txt
+|4,39,1,18,1776100527,"~/story2.txt"
+-'  1  0  ~/story1
+|4,39,1,0,1776100384,"~/story1"
+-'  1  0  ~/story1
+|4,39,1,0,1776100384,"~/story1"
+-'  1  0  ~/story1
+|4,39,1,0,1776100384,"~/story1"
 -'  1  0  ~/story1
 |4,39,1,0,1776100384,"~/story1"
 -'  1  29  ~/story2
 |4,39,1,29,1776100244,"~/story2"
 -'  1  29  ~/story2
 |4,39,1,29,1776100244,"~/story2"
+-'  1  29  ~/story2
+|4,39,1,29,1776100244,"~/story2"
+-'  1  29  ~/story2
+|4,39,1,29,1776100244,"~/story2"
+-'  1  29  ~/story2
+|4,39,1,29,1776100244,"~/story2"
+-'  1  29  ~/story2
+|4,39,1,29,1776100244,"~/story2"
+-'  1  29  ~/story2
+|4,39,1,29,1776100244,"~/story2"
+-'  1  29  ~/story2
+|4,39,1,29,1776100244,"~/story2"
+-'  1  10  ~/index.html
+|4,39,1,10,1776077356,"~/index.html"
+-'  1  10  ~/index.html
+|4,39,1,10,1776077356,"~/index.html"
+-'  1  10  ~/index.html
+|4,39,1,10,1776077356,"~/index.html"
+-'  1  10  ~/index.html
+|4,39,1,10,1776077356,"~/index.html"
+-'  1  10  ~/index.html
+|4,39,1,10,1776077356,"~/index.html"
+-'  1  10  ~/index.html
+|4,39,1,10,1776077356,"~/index.html"
+-'  1  10  ~/index.html
+|4,39,1,10,1776077356,"~/index.html"
+-'  1  10  ~/index.html
+|4,39,1,10,1776077356,"~/index.html"
+-'  1  10  ~/index.html
+|4,39,1,10,1776077356,"~/index.html"
+-'  1  10  ~/index.html
+|4,39,1,10,1776077356,"~/index.html"
+-'  1  10  ~/index.html
+|4,39,1,10,1776077356,"~/index.html"
+-'  1  10  ~/index.html
+|4,39,1,10,1776077356,"~/index.html"
 -'  1  10  ~/index.html
 |4,39,1,10,1776077356,"~/index.html"
 -'  1  10  ~/index.html
@@ -73,6 +119,30 @@
 |4,39,1,11,1776077328,"~/index.html"
 -'  1  11  ~/index.html
 |4,39,1,11,1776077328,"~/index.html"
+-'  1  11  ~/index.html
+|4,39,1,11,1776077328,"~/index.html"
+-'  1  11  ~/index.html
+|4,39,1,11,1776077328,"~/index.html"
+-'  1  11  ~/index.html
+|4,39,1,11,1776077328,"~/index.html"
+-'  1  11  ~/index.html
+|4,39,1,11,1776077328,"~/index.html"
+-'  1  11  ~/index.html
+|4,39,1,11,1776077328,"~/index.html"
+-'  1  11  ~/index.html
+|4,39,1,11,1776077328,"~/index.html"
+-'  1  11  ~/index.html
+|4,39,1,11,1776077328,"~/index.html"
+-'  1  11  ~/index.html
+|4,39,1,11,1776077328,"~/index.html"
+-'  1  11  ~/index.html
+|4,39,1,11,1776077328,"~/index.html"
+-'  1  11  ~/index.html
+|4,39,1,11,1776077328,"~/index.html"
+-'  1  11  ~/index.html
+|4,39,1,11,1776077328,"~/index.html"
+-'  1  11  ~/index.html
+|4,39,1,11,1776077328,"~/index.html"
 -'  1  18  ~/index.html
 |4,39,1,18,1776077166,"~/index.html"
 -'  1  18  ~/index.html
@@ -81,6 +151,54 @@
 |4,39,1,18,1776077166,"~/index.html"
 -'  1  18  ~/index.html
 |4,39,1,18,1776077166,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077166,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077166,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077166,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077166,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077166,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077166,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077166,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077166,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077166,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077166,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077166,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077166,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077123,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077123,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077123,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077123,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077123,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077123,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077123,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077123,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077123,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077123,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077123,"~/index.html"
+-'  1  18  ~/index.html
+|4,39,1,18,1776077123,"~/index.html"
 -'  1  18  ~/index.html
 |4,39,1,18,1776077123,"~/index.html"
 -'  1  18  ~/index.html
@@ -133,126 +251,15 @@
 |4,39,2,41,1775919441,"/tmp/basic.sh"
 -'  2  41  /tmp/basic.sh
 |4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  2  41  /tmp/basic.sh
-|4,39,2,41,1775919441,"/tmp/basic.sh"
--'  1  0  /tmp/basic.sh
-|4,39,1,0,1775919409,"/tmp/basic.sh"
--'  1  0  /tmp/basic.sh
-|4,39,1,0,1775919409,"/tmp/basic.sh"
--'  1  0  /tmp/basic.sh
-|4,39,1,0,1775919409,"/tmp/basic.sh"
--'  1  0  /tmp/basic.sh
-|4,39,1,0,1775919409,"/tmp/basic.sh"
--'  1  0  /tmp/basic.sh
-|4,39,1,0,1775919409,"/tmp/basic.sh"
--'  1  0  /tmp/basic.sh
-|4,39,1,0,1775919409,"/tmp/basic.sh"
--'  1  0  /tmp/basic.sh
-|4,39,1,0,1775919409,"/tmp/basic.sh"
--'  1  0  /tmp/basic.sh
-|4,39,1,0,1775919409,"/tmp/basic.sh"
--'  1  0  /tmp/basic.sh
-|4,39,1,0,1775919409,"/tmp/basic.sh"
--'  1  0  /tmp/basic.sh
-|4,39,1,0,1775919409,"/tmp/basic.sh"
--'  1  0  /tmp/basic.sh
-|4,39,1,0,1775919409,"/tmp/basic.sh"
--'  1  0  /tmp/basic.sh
-|4,39,1,0,1775919409,"/tmp/basic.sh"
--'  1  0  /tmp/basic.sh
-|4,39,1,0,1775919409,"/tmp/basic.sh"
--'  1  0  /tmp/basic.sh
-|4,39,1,0,1775919409,"/tmp/basic.sh"
--'  1  0  /tmp/basic.sh
-|4,39,1,0,1775919409,"/tmp/basic.sh"
--'  1  0  /tmp/basic.sh
-|4,39,1,0,1775919409,"/tmp/basic.sh"
--'  1  0  /tmp/basic.sh
-|4,39,1,0,1775919409,"/tmp/basic.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/story2.txt
+	*	1776100615	0
+	"	1	27
+	^	1	28
+	.	1	27
+	+	1	27
 
 > ~/story1
 	*	1776100382	0
