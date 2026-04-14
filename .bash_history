@@ -253,3 +253,5 @@ git add .
 git commit -m "proj" .
 ls
 git status
+hostnamectl set-hostname githubserver
+sudo -i
