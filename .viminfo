@@ -11,14 +11,14 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:q!
+|2,0,1776260033,,"q!"
 :wq
-|2,0,1776180966,,"wq"
+|2,0,1776249468,,"wq"
 :Wq
 |2,0,1776180874,,"Wq"
 :q
 |2,0,1776100384,,"q"
-:q!
-|2,0,1775916292,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -31,30 +31,174 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/python11
-|4,48,1,0,1776180966,"~/python11"
-'1  1  0  ~/python11
-|4,49,1,0,1776180881,"~/python11"
-'2  1  0  ~/hello.txt
-|4,50,1,0,1776180861,"~/hello.txt"
-'3  1  0  ~/python11
-|4,51,1,0,1776180416,"~/python11"
+'0  110  0  /usr/lib/systemd/system/jenkins.service
+|4,48,110,0,1776261800,"/usr/lib/systemd/system/jenkins.service"
+'1  28  0  ~/MyKey.pem
+|4,49,28,0,1776249468,"~/MyKey.pem"
+'2  1  0  ~/python11
+|4,50,1,0,1776181454,"~/python11"
+'3  1  0  ~/hello.txt
+|4,51,1,0,1776181441,"~/hello.txt"
 '4  1  0  ~/python11
-|4,52,1,0,1776180416,"~/python11"
-'5  3  16  ~/.git/hello.txt
-|4,53,3,16,1776174433,"~/.git/hello.txt"
-'6  2  8  ~/.git/hello.txt
-|4,54,2,8,1776173430,"~/.git/hello.txt"
-'7  2  8  ~/.git/hello.txt
-|4,55,2,8,1776173430,"~/.git/hello.txt"
-'8  1  19  ~/.git/hello.txt
-|4,56,1,19,1776172716,"~/.git/hello.txt"
-'9  1  19  ~/.git/hello.txt
-|4,57,1,19,1776172716,"~/.git/hello.txt"
+|4,52,1,0,1776181261,"~/python11"
+'5  1  0  ~/hello.txt
+|4,53,1,0,1776181249,"~/hello.txt"
+'6  1  0  ~/python11
+|4,54,1,0,1776180966,"~/python11"
+'7  1  0  ~/python11
+|4,55,1,0,1776180966,"~/python11"
+'8  1  0  ~/python11
+|4,56,1,0,1776180881,"~/python11"
+'9  1  0  ~/python11
+|4,57,1,0,1776180881,"~/python11"
 
 # Jumplist (newest first):
+-'  110  0  /usr/lib/systemd/system/jenkins.service
+|4,39,110,0,1776261800,"/usr/lib/systemd/system/jenkins.service"
+-'  1  0  /usr/lib/systemd/system/jenkins.service
+|4,39,1,0,1776259984,"/usr/lib/systemd/system/jenkins.service"
+-'  28  0  ~/MyKey.pem
+|4,39,28,0,1776249468,"~/MyKey.pem"
+-'  28  0  ~/MyKey.pem
+|4,39,28,0,1776249468,"~/MyKey.pem"
+-'  1  0  ~/MyKey.pem
+|4,39,1,0,1776249439,"~/MyKey.pem"
+-'  1  0  ~/MyKey.pem
+|4,39,1,0,1776249439,"~/MyKey.pem"
+-'  1  0  ~/python11
+|4,39,1,0,1776181454,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776181454,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776181454,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776181454,"~/python11"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181441,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181441,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181441,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181441,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181441,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181441,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181441,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181441,"~/hello.txt"
+-'  1  0  ~/python11
+|4,39,1,0,1776181261,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776181261,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776181261,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776181261,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776181261,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776181261,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776181261,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776181261,"~/python11"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181249,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181249,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181249,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181249,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181249,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181249,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181249,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181249,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181249,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181249,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181249,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181249,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181249,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181249,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181249,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776181249,"~/hello.txt"
 -'  1  0  ~/python11
 |4,39,1,0,1776180966,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180966,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180966,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180966,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180966,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180966,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180966,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180966,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180966,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180966,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180966,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180966,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180966,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180966,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180966,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180966,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180881,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180881,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180881,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180881,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180881,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180881,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180881,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180881,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180881,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180881,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180881,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180881,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180881,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180881,"~/python11"
+-'  1  0  ~/python11
+|4,39,1,0,1776180881,"~/python11"
 -'  1  0  ~/python11
 |4,39,1,0,1776180881,"~/python11"
 -'  1  0  ~/hello.txt
@@ -65,203 +209,70 @@
 |4,39,1,0,1776180861,"~/hello.txt"
 -'  1  0  ~/hello.txt
 |4,39,1,0,1776180861,"~/hello.txt"
--'  1  0  ~/python11
-|4,39,1,0,1776180416,"~/python11"
--'  1  0  ~/python11
-|4,39,1,0,1776180416,"~/python11"
--'  3  16  ~/.git/hello.txt
-|4,39,3,16,1776174433,"~/.git/hello.txt"
--'  3  16  ~/.git/hello.txt
-|4,39,3,16,1776174433,"~/.git/hello.txt"
--'  3  16  ~/.git/hello.txt
-|4,39,3,16,1776174433,"~/.git/hello.txt"
--'  3  16  ~/.git/hello.txt
-|4,39,3,16,1776174433,"~/.git/hello.txt"
--'  3  16  ~/.git/hello.txt
-|4,39,3,16,1776174433,"~/.git/hello.txt"
--'  3  16  ~/.git/hello.txt
-|4,39,3,16,1776174433,"~/.git/hello.txt"
--'  3  16  ~/.git/hello.txt
-|4,39,3,16,1776174433,"~/.git/hello.txt"
--'  3  16  ~/.git/hello.txt
-|4,39,3,16,1776174433,"~/.git/hello.txt"
--'  3  16  ~/.git/hello.txt
-|4,39,3,16,1776174433,"~/.git/hello.txt"
--'  3  16  ~/.git/hello.txt
-|4,39,3,16,1776174433,"~/.git/hello.txt"
--'  3  16  ~/.git/hello.txt
-|4,39,3,16,1776174433,"~/.git/hello.txt"
--'  3  16  ~/.git/hello.txt
-|4,39,3,16,1776174433,"~/.git/hello.txt"
--'  3  16  ~/.git/hello.txt
-|4,39,3,16,1776174433,"~/.git/hello.txt"
--'  3  16  ~/.git/hello.txt
-|4,39,3,16,1776174433,"~/.git/hello.txt"
--'  3  16  ~/.git/hello.txt
-|4,39,3,16,1776174433,"~/.git/hello.txt"
--'  3  16  ~/.git/hello.txt
-|4,39,3,16,1776174433,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776174418,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776174418,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776174418,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776174418,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776174418,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776174418,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776174418,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776174418,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776174418,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776174418,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776174418,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776174418,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776174418,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776174418,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776174418,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776174418,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776173430,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776173430,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776173430,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776173430,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776173430,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776173430,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776173430,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776173430,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776173430,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776173430,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776173430,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776173430,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776173430,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776173430,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776173430,"~/.git/hello.txt"
--'  2  8  ~/.git/hello.txt
-|4,39,2,8,1776173430,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776173415,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776172716,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776172716,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776172716,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776172716,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776172716,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776172716,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776172716,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776172716,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776172716,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776172716,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776172716,"~/.git/hello.txt"
--'  1  19  ~/.git/hello.txt
-|4,39,1,19,1776172716,"~/.git/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
+-'  1  0  ~/hello.txt
+|4,39,1,0,1776180861,"~/hello.txt"
 
 # History of marks within files (newest to oldest):
 
+> /usr/lib/systemd/system/jenkins.service
+	*	1776260045	0
+	"	110	0
+
+> ~/MyKey.pem
+	*	1776249466	0
+	"	28	0
+	^	28	0
+	.	27	29
+	+	27	29
+
 > ~/python11
-	*	1776180964	0
+	*	1776181452	0
 	"	1	0
 
 > ~/hello.txt
-	*	1776180860	0
+	*	1776181439	0
 	"	1	0
 
 > ~/.git/hello.txt
